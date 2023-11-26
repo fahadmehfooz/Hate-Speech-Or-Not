@@ -58,6 +58,6 @@ if st.button('Predict'):
 
     # Display a user-friendly prediction with custom style
     if prediction[0] == 0:
-        st.markdown("<p style='color: black;'>The given text is not a hate speech.</p>", unsafe_allow_html=True)
+       st.markdown("<p style='color: black; font-size: 20px;'>The given text is not a hate speech.</p>", unsafe_allow_html=True)
     else:
-        st.markdown("<p style='color: black;'>The given text is a hate speech.</p>", unsafe_allow_html=True)
+        st.markdown("<p style='color: black; font-size: 20px;'>The given text is a hate speech.</p>", unsafe_allow_html=True)
