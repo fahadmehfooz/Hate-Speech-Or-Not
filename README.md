@@ -41,4 +41,4 @@ The primary goal of this project is to identify and mitigate hate speech in onli
 - Discussed the implications of model predictions and identified key areas for future work and improvements.
 
 
-https://hate-speech-or-not-ryh8sgyuzlfnrsvy2xjr2k.streamlit.app/
+App link: https://hate-speech-or-not-ryh8sgyuzlfnrsvy2xjr2k.streamlit.app/
