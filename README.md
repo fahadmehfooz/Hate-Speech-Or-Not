@@ -49,6 +49,8 @@ Evaluation results on models:
 
 ![alt text](https://github.com/fahadmehfooz/Hate-Speech-Or-Not/blob/main/results.png)
 
+Final Model chosen: Gradient Boosting Model.
+
 
 ## App:
 
