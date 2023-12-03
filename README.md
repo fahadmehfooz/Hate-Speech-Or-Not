@@ -39,6 +39,10 @@ The primary goal of this project is to identify and mitigate hate speech in onli
 ## Model Performance and Insights
 - Detailed the performance metrics of the models, emphasizing the importance of recall and precision in the context of hate speech detection.
 - Discussed the implications of model predictions and identified key areas for future work and improvements.
+![alt text](https://github.com/fahadmehfooz/Hate-Speech-Or-Not/blob/main/AUC-%20PR.png)
+
+
+![alt text](https://github.com/fahadmehfooz/Hate-Speech-Or-Not/blob/main/results.png)
 
 
 App link: https://hate-speech-or-not-ryh8sgyuzlfnrsvy2xjr2k.streamlit.app/
